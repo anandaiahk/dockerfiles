@@ -1,2 +1,2 @@
-ADD version
-FROM almalinux:${version:8}
+ADD version:8
+FROM almalinux:${version}
